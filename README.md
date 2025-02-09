@@ -122,7 +122,7 @@ This project is licensed under the **MIT License**.
 
 ## ✨ Author
 👤 **Hitesh Kumar**  
-📧 [Email](mailto:hitesh.kumar@example.com)  
-🔗 [GitHub](https://github.com/hiteshydv001) | [LinkedIn](https://linkedin.com/in/hiteshydv001)
+📧 [Email](mailto:hiteshofficial0001@gamil.com)  
+🔗 [GitHub](https://github.com/Hiteshydv001) | [LinkedIn](https://www.linkedin.com/in/hitesh-kumar-aiml/)
 
 

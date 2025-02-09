@@ -3,6 +3,10 @@
 A **Blockchain-based Land Registry System** using **Ethereum**, **Solidity**, and **Web3.py** to ensure **secure, transparent, and immutable** land ownership records.
 
 ---
+# Demo
+
+![image](https://github.com/user-attachments/assets/00d9ec13-1184-4622-a325-2e82bebb6313)
+
 
 ## 📌 Features
 - 🏡 **Decentralized Land Registration**
